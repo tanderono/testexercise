@@ -1,1 +1,1 @@
-Simple accounting programm on JAVA Language.
+Very simple accounting programm on JAVA Language.
